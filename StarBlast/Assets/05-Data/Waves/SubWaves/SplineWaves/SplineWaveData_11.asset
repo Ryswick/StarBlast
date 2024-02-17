@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9402c4885e8d7be43bd1920a9b3ff98f, type: 3}
+  m_Name: SplineWaveData_11
+  m_EditorClassIdentifier: 
+  _entityList:
+  - {fileID: 7375114926212850076, guid: d9ea1089cbb58334abd287cfc445e727, type: 3}
+  _spawnTimes:
+  - 0
+  _followSpeeds:
+  - 6
+  _huntingSpeeds:
+  - 3
+  _spline: {fileID: 5805415117308837076, guid: accac94a3ded1294e9d28d5e5c332971, type: 3}
